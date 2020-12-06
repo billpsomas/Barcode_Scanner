@@ -1,0 +1,4 @@
+pyzbar
+argparse
+opencv-python
+imutils
